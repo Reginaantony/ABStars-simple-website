@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    margin: 60px;
+}
+.section-one{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    margin: 40px;
+    padding: 30px;
+}
+.section-two__1,.section-two__2,.section-two__3{
+    background-color: white;
+    color: black;
+    display: inline-block;
+    border: none;
+    border:solid black 2px;
+    text-align: center;
+
+}
+.section-two__button{
+    background-color: red;
+    color:aliceblue;
+    padding:5px;
+    margin: 5px;
+}
+.container2{
+    text-align: center;
+}
+.section-three,.contact-form{
+    background-color: aqua;
+    color: black;
+    padding: 20px;
+    margin:10px;
+    text-align: center;
+     
+}
+.contact-form{ 
+    display: inline-block;
+}
+.contact-form__input{
+    padding: 5px;
+    border: none;
+}
+.section-three__button{
+    background-color: crimson;
+    color: black;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border:none;
+
+
+}
